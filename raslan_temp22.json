@@ -1,0 +1,27 @@
+{
+  "paragraphs": [
+    {
+      "text": "",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "version": "v0",
+      "jobName": "paragraph_1602706548522_-2139968363",
+      "id": "20201014-201548_519858595_q_D28KUZ5H171602706544",
+      "dateCreated": "Oct 14, 2020 8:15:44 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 1000
+    }
+  ],
+  "name": "aslan_trial",
+  "id": "D28KUZ5H171602706544",
+  "angularObjects": {},
+  "config": {
+    "isDashboard": false,
+    "defaultLang": "spark"
+  },
+  "info": {},
+  "source": "FCN"
+}
