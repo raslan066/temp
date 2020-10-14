@@ -1,0 +1,75 @@
+{
+  "paragraphs": [
+    {
+      "text": "//hello",
+      "user": "resul.aslan@acxiom.com",
+      "dateUpdated": "Oct 14, 2020 7:59:16 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "paragraphProgress": {
+        "jobs": [],
+        "numCompletedTasks": 0,
+        "numTasks": 0,
+        "truncated": false
+      },
+      "version": "v1",
+      "jobName": "paragraph_1602705501477_-2020015886",
+      "id": "20201014-195821_337199064_q_3WCF2U939U1602705494",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": ""
+      },
+      "dateCreated": "Oct 14, 2020 7:58:14 PM",
+      "dateSubmitted": "Oct 14, 2020 7:59:16 PM",
+      "dateStarted": "Oct 14, 2020 7:59:16 PM",
+      "dateFinished": "Oct 14, 2020 7:59:16 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 1000
+    },
+    {
+      "text": "",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "version": "v0",
+      "jobName": "paragraph_1602705556403_43685269",
+      "id": "20201014-195916_568599338_q_3WCF2U939U1602705494",
+      "dateCreated": "Oct 14, 2020 7:59:16 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 1000
+    }
+  ],
+  "name": "temp3",
+  "id": "3WCF2U939U1602705494",
+  "angularObjects": {
+    "2EW3NECQW329171576165355850:shared_process": [],
+    "2EW85K3NU329171576165355850:shared_process": [],
+    "2FPMG84XB329171602692958811:shared_process": [],
+    "2EXUVY39G329171576165355850:shared_process": []
+  },
+  "config": {
+    "isDashboard": false,
+    "defaultLang": "spark"
+  },
+  "info": {},
+  "source": "FCN"
+}
