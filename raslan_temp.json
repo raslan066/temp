@@ -1,0 +1,161 @@
+{
+  "paragraphs": [
+    {
+      "text": "print(\"hello James!\")",
+      "user": "resul.aslan@acxiom.com",
+      "dateUpdated": "Oct 14, 2020 7:36:07 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "paragraphProgress": {
+        "jobs": [],
+        "numCompletedTasks": 0,
+        "numTasks": 0,
+        "truncated": false
+      },
+      "version": "v1",
+      "jobName": "paragraph_1602692958765_-311520723",
+      "id": "20201014-162918_515462692_q_U33GX4UKPX1602692744",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "hello James!"
+      },
+      "dateCreated": "Oct 14, 2020 4:25:44 PM",
+      "dateSubmitted": "Oct 14, 2020 7:36:08 PM",
+      "dateStarted": "Oct 14, 2020 7:36:08 PM",
+      "dateFinished": "Oct 14, 2020 7:36:09 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 1000
+    },
+    {
+      "text": "print(\"hello\")",
+      "user": "resul.aslan@acxiom.com",
+      "dateUpdated": "Oct 14, 2020 7:40:01 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "paragraphProgress": {
+        "jobs": [],
+        "numCompletedTasks": 0,
+        "numTasks": 0,
+        "truncated": false
+      },
+      "version": "v1",
+      "jobName": "paragraph_1602704391902_144959597",
+      "id": "20201014-193951_824507868_q_U33GX4UKPX1602692744",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "hello"
+      },
+      "dateCreated": "Oct 14, 2020 7:39:51 PM",
+      "dateSubmitted": "Oct 14, 2020 7:40:01 PM",
+      "dateStarted": "Oct 14, 2020 7:40:01 PM",
+      "dateFinished": "Oct 14, 2020 7:40:02 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 1000
+    },
+    {
+      "text": "print(\"hi\")",
+      "user": "resul.aslan@acxiom.com",
+      "dateUpdated": "Oct 14, 2020 7:41:56 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "paragraphProgress": {
+        "jobs": [],
+        "numCompletedTasks": 0,
+        "numTasks": 0,
+        "truncated": false
+      },
+      "version": "v1",
+      "jobName": "paragraph_1602704504995_-1539886485",
+      "id": "20201014-194144_1706653523_q_U33GX4UKPX1602692744",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "hi"
+      },
+      "dateCreated": "Oct 14, 2020 7:41:44 PM",
+      "dateSubmitted": "Oct 14, 2020 7:41:56 PM",
+      "dateStarted": "Oct 14, 2020 7:41:56 PM",
+      "dateFinished": "Oct 14, 2020 7:41:56 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 1000
+    },
+    {
+      "text": "",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "version": "v0",
+      "jobName": "paragraph_1602704171287_-1784265502",
+      "id": "20201014-193611_775410233_q_U33GX4UKPX1602692744",
+      "dateCreated": "Oct 14, 2020 7:36:11 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 1000
+    }
+  ],
+  "name": "raslan_temp",
+  "id": "U33GX4UKPX1602692744",
+  "angularObjects": {
+    "2EW3NECQW329171576165355850:shared_process": [],
+    "2EW85K3NU329171576165355850:shared_process": [],
+    "2FPMG84XB329171602692958811:shared_process": [],
+    "2EXUVY39G329171576165355850:shared_process": []
+  },
+  "config": {
+    "isDashboard": false,
+    "defaultLang": "spark"
+  },
+  "info": {},
+  "source": "FCN"
+}
