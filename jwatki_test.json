@@ -1,0 +1,47 @@
+{
+  "paragraphs": [
+    {
+      "text": "asdfasdfsdfdf",
+      "user": "udl.qubole.appdev.admin@acxiom.com",
+      "dateUpdated": "Oct 14, 2020 7:55:01 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "version": "v0",
+      "jobName": "paragraph_1602705227078_1020643160",
+      "id": "20201014-195347_685583415_q_AME8ZEAU5Q1602705222",
+      "dateCreated": "Oct 14, 2020 7:53:42 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 1000
+    }
+  ],
+  "name": "jwatki-test",
+  "id": "AME8ZEAU5Q1602705222",
+  "angularObjects": {
+    "2EW3NECQW329171576165355850:shared_process": [],
+    "2EW85K3NU329171576165355850:shared_process": [],
+    "2FM33G76Z329171602705227089:shared_process": [],
+    "2EXUVY39G329171576165355850:shared_process": []
+  },
+  "config": {
+    "isDashboard": false,
+    "defaultLang": "spark"
+  },
+  "info": {},
+  "source": "FCN"
+}
