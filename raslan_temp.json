@@ -137,9 +137,66 @@
         "forms": {}
       },
       "version": "v0",
+      "jobName": "paragraph_1602705437750_-768335769",
+      "id": "20201014-195717_1281688107_q_U33GX4UKPX1602692744",
+      "dateCreated": "Oct 14, 2020 7:57:17 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 1000
+    },
+    {
+      "text": "print(\"hello\")",
+      "user": "resul.aslan@acxiom.com",
+      "dateUpdated": "Oct 14, 2020 7:57:20 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "paragraphProgress": {
+        "jobs": [],
+        "numCompletedTasks": 0,
+        "numTasks": 0,
+        "truncated": false
+      },
+      "version": "v1",
       "jobName": "paragraph_1602704171287_-1784265502",
       "id": "20201014-193611_775410233_q_U33GX4UKPX1602692744",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "hello"
+      },
       "dateCreated": "Oct 14, 2020 7:36:11 PM",
+      "dateSubmitted": "Oct 14, 2020 7:57:20 PM",
+      "dateStarted": "Oct 14, 2020 7:57:20 PM",
+      "dateFinished": "Oct 14, 2020 7:57:20 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 1000
+    },
+    {
+      "text": "",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "version": "v0",
+      "jobName": "paragraph_1602705440408_-118110128",
+      "id": "20201014-195720_1513043458_q_U33GX4UKPX1602692744",
+      "dateCreated": "Oct 14, 2020 7:57:20 PM",
       "status": "READY",
       "progressUpdateIntervalMs": 1000
     }
